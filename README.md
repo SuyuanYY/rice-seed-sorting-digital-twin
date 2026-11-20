@@ -1,4 +1,4 @@
-# Rice Seed Sorting and 3D Digital Twin Visualisation
+# Seed Sorting and 3D Digital Twin Visualisation
 
 **Student Research Training Programme** · Project Principal · Nov 2022–Jun 2024
 
