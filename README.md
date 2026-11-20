@@ -2,7 +2,7 @@
 
 **Student Research Training Programme** · Project Principal · Nov 2022–Jun 2024
 
-I led the project and independently built both the hardware and software for the rice seed sorting prototype. My work covered hardware design, deep-learning research for sorting decision support, 3D modelling, and development of the digital-twin visualisation and inspection dashboard.
+I led the project and independently built both the hardware and software for the seed sorting prototype. My work covered hardware design, deep-learning research for sorting decision support, 3D modelling, and development of the digital-twin visualisation and inspection dashboard.
 
 ## Project demos
 
